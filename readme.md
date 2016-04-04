@@ -1,21 +1,21 @@
 MyShell
-131035 »çÇö¿ì
+131035 ì‚¬í˜„ìš°
 
 Step1 (~16/04/05)
 
-- »ç¿ëÀÚ·ÎºÎÅÍ ÀÔ·Â ¹ÞÀº ¸í·É ¶óÀÎÀ» ºÐ¼®ÇÏ¿© ÅäÅ«º°·Î Ãâ·Â.
+- ì‚¬ìš©ìžë¡œë¶€í„° ìž…ë ¥ ë°›ì€ ëª…ë ¹ ë¼ì¸ì„ ë¶„ì„í•˜ì—¬ í† í°ë³„ë¡œ ì¶œë ¥.
 
-- ¸í·É¾î ¸ñ·Ï
-	ls : µð·ºÅä¸®¿¡ Á¸ÀçÇÏ´Â ÆÄÀÏ ¸®½ºÆ®¸¦ Ãâ·Â
-	ll : µð·ºÅä¸®¿¡ Á¸ÀçÇÏ´Â ¸ðµç ÆÄÀÏ¿¡ ´ëÇÑ »ó¼¼ÇÑ ³»¿ëÀÌ ´ã±ä 			¸®½ºÆ®¸¦ Ãâ·Â
-	cp : ÆÄÀÏÀ» º¹»ç
-	rm : ÆÄÀÏÀ» Á¦°Å 
-	move : ÆÄÀÏ À§Ä¡¸¦ ÀÌµ¿
-	cd : µð·ºÅä¸®¸¦ º¯°æ
-	pwd : ÇöÀç ÀÛ¾÷ÁßÀÎ µð·ºÅä¸®
-	mkdir : µð·ºÅä¸®¸¦ »ý¼º
-	rmdir : µð·ºÅä¸®¸¦ Á¦°Å
-	cpdir : µð·ºÅä¸®¸¦ º¹»ç
-	exit, quit : MyShellÀ» Á¾·á
+- ëª…ë ¹ì–´ ëª©ë¡
+	- ls : ë””ë ‰í† ë¦¬ì— ì¡´ìž¬í•˜ëŠ” íŒŒì¼ ë¦¬ìŠ¤íŠ¸ë¥¼ ì¶œë ¥
+	- ll : ë””ë ‰í† ë¦¬ì— ì¡´ìž¬í•˜ëŠ” ëª¨ë“  íŒŒì¼ì— ëŒ€í•œ ìƒì„¸í•œ ë‚´ìš©ì´ ë‹´ê¸´ ë¦¬ìŠ¤íŠ¸ë¥¼ ì¶œë ¥
+	- cp : íŒŒì¼ì„ ë³µì‚¬
+	- rm : íŒŒì¼ì„ ì œê±° 
+	- move : íŒŒì¼ ìœ„ì¹˜ë¥¼ ì´ë™
+	- cd : ë””ë ‰í† ë¦¬ë¥¼ ë³€ê²½
+	- pwd : í˜„ìž¬ ìž‘ì—…ì¤‘ì¸ ë””ë ‰í† ë¦¬
+	- mkdir : ë””ë ‰í† ë¦¬ë¥¼ ìƒì„±
+	- rmdir : ë””ë ‰í† ë¦¬ë¥¼ ì œê±°
+	- cpdir : ë””ë ‰í† ë¦¬ë¥¼ ë³µì‚¬
+	- exit, quit : MyShellì„ ì¢…ë£Œ
 
-- ¸í·É¾î ¸ñ·Ï¿¡ ¾ø´Â ³»¿ëÀ» ÀÔ·ÂÇÒ °æ¿ì command not found¸¦ Ãâ·Â.
+- ëª…ë ¹ì–´ ëª©ë¡ì— ì—†ëŠ” ë‚´ìš©ì„ ìž…ë ¥í•  ê²½ìš° command not foundë¥¼ ì¶œë ¥.
