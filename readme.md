@@ -1,8 +1,8 @@
-NEXT INSTITUTE OS Project
-MyShell
+#NEXT INSTITUTE OS Project
+#MyShell
 131035 사현우
 
-Step1 (~16/04/05)
+* Step1 (~16/04/05)
 
 - 사용자로부터 입력 받은 명령 라인을 분석하여 토큰별로 출력.
 
@@ -23,13 +23,13 @@ Step1 (~16/04/05)
 
 
 
-Step2 (~16/04/26)
+* Step2 (~16/04/26)
 
 - Redirection 구현
 
 
 
-Step3 (~16/05/12)
+* Step3 (~16/05/12)
 
 - 셸의 외부 명령어 실행 (프로세스의 생성과 프로그램 실행) 구현
 
@@ -39,7 +39,7 @@ Step3 (~16/05/12)
 
 
 
-Step4_Final (~16/05/26)
+* Step4_Final (~16/05/26)
 
 - 디렉터리 복사 (멀티 스레드 프로그래밍) 구현
 
