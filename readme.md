@@ -1,6 +1,6 @@
-## NEXT INSTITUTE OS Project
-# MyShell
-# 131035 사현우
+# NEXT INSTITUTE OS Project
+## MyShell
+### 131035 사현우
 
 Step1 (~16/04/05)
 >
